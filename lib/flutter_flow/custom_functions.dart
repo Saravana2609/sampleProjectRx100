@@ -25,3 +25,7 @@ DateTime time() {
   // return current time
   return DateTime.now();
 }
+
+int add() {
+  return 4 + 5;
+}
